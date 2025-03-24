@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4efa8938-a96e-42a1-aa4e-11d20b5fe7bd" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FormatOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="OptimizeOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2uG4mUwL8W6k3zpRYiGzUDzKrGe" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.TutorialGestionApplication.executor": "Run",
+    "Application.TutorialGestionClientesApplication.executor": "Run",
+    "JUnit.LoansControllerTest.executor": "Run",
+    "JUnit.LoansControllerTest.findAllShouldReturnAllLoans.executor": "Run",
+    "JUnit.LoansControllerTest.saveShouldCreateOrUpdateLoan.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "<unknown>",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/claudher/Desktop/Apuntes/TutorialCompleto/TutorialGestion",
+    "settings.editor.selected.configurable": "actions.on.save"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="com.ccsw.TutorialGestionClientes.loans" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.LoansControllerTest.findAllShouldReturnAllLoans">
+    <configuration name="LoansControllerTest.findAllShouldReturnAllLoans" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TutorialGestionClientes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="category.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="category" />
+      <option name="MAIN_CLASS_NAME" value="category.LoansControllerTest" />
+      <option name="METHOD_NAME" value="findAllShouldReturnAllLoans" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoansControllerTest.saveShouldCreateOrUpdateLoan" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TutorialGestionClientes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="category.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="category" />
+      <option name="MAIN_CLASS_NAME" value="category.LoansControllerTest" />
+      <option name="METHOD_NAME" value="saveShouldCreateOrUpdateLoan" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="TutorialGestion" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.LoansControllerTest.findAllShouldReturnAllLoans" />
+        <item itemvalue="JUnit.LoansControllerTest.saveShouldCreateOrUpdateLoan" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4efa8938-a96e-42a1-aa4e-11d20b5fe7bd" name="Changes" comment="" />
+      <created>1741861735721</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1741861735721</updated>
+    </task>
+    <servers />
+  </component>
+</project>
